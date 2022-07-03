@@ -17,4 +17,4 @@ Bunu yapıyoruz çünkü projeyi git kullanımı olmadan yapmamız çok zor. Bu 
 # Tamamladım!
 - Sonat
 - Onur
-- Adınız
+- Gökhan
